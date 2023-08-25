@@ -1,2 +1,2 @@
 # GitHub-Starter-Template
-You should practice pulling a copy of the template, editing it, and then uploading and submitting to your own repository. Be sure you also add a Class Comment to explain what the purpose of this code is.
+Starting from the code template FirstAssignment.java on GitHub, pull it, add a class comment at the top explaining what the code does, and change it to print your name. Also add your Hello World file to the repository. Push it back to the master for me to grade.
